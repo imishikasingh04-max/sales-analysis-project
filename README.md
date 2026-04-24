@@ -1,2 +1,2 @@
 # sales-analysis-project
-This project analyzes sales data using Python and Power BI
+This project analyzes sales data using and Power BI and presents insights through an interactive dashboard.
